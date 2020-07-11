@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-<!--
-**James-P-D/James-P-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Below is a quick overview of every repository on my Github. All projects are original sources (rather than forks of projects created by other users).
 
 ## Contents
@@ -22,9 +7,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
 * [Compilers and Interpreters](#Compilers-and-Interpreters)
     * [Forthish](#Forthish) - A **C#** Console application for a Forth-like stack-based language
     * [Logo](#Logo) - A **C#** WinForms implementation of the educational programming language Logo with the addition of variables, evaluations and basic control functions (if/then/else/loops etc.)
-<!--    
-    * [Lambda](#Lambda) - A simple Lambda expression interpreter in **Java**
--->
+<!--* [Lambda](#Lambda) - A simple Lambda expression interpreter in **Java**-->
     * [BrainfuckBrowser](#BrainfuckBrowser) - A very simple browser-based Brainfuck interpreter in **Javascript**, **HTML** & **CSS**
     * [BrainfuckCompiler](#BrainfuckCompiler) - A command-line **node.js** application for generating MASM-compatible **x86** **Assembly** versions of Brainfuck programs
 * [Networking Tools](#Networking-Tools)
@@ -39,9 +22,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [Maze](#Maze) - Maze Generation and Solving in **Python**
     * [Wordsearch](#Wordsearch) - Wordsearch puzzle solver with UI in **Java** using Swing and searcher in **Erlang**
     * [Sudoku](#Sudoku) - A Sudoku puzzle solver with algorithm in **F#** and UI in **C#** Winforms
-<!--    
-    * [PegSolitaire](#PegSolitaire) - Peg Solitaire solver in **OCaml**    
--->
+<!--* [PegSolitaire](#PegSolitaire) - Peg Solitaire solver in **OCaml**-->
 * [Dump Folders](#Dump-Folders)
 
 ### Compilers and Interpreters
