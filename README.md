@@ -21,6 +21,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [Maze](#Maze) - Maze Generation and Solving in **Python**
     * [Wordsearch](#Wordsearch) - Wordsearch puzzle solver with UI in **Java** using Swing and searcher in **Erlang**
     * [Sudoku](#Sudoku) - A Sudoku puzzle solver with algorithm in **F#** and UI in **C#** Winforms
+    * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
 * [Dump Folders](#Dump-Folders)
 
 ### Compilers and Interpreters
@@ -171,6 +172,17 @@ A Sudoku puzzle solver with algorithm in F# and UI in C# Winforms
 ![Screenshot](https://github.com/James-P-D/Sudoku/blob/master/Screenshot.gif)
 
 ***************************************************************************************************
+
+#### [Fractals](https://github.com/James-P-D/Fractals)
+
+[https://github.com/James-P-D/Fractals](https://github.com/James-P-D/Fractals)
+
+Fractals with zoom functionality in Python and Julia
+
+![Screenshot](https://github.com/James-P-D/Fractals/blob/master/screenshot.gif)
+
+***************************************************************************************************
+
 <!--
 #### [PegSolitaire](https://github.com/James-P-D/PegSolitaire)
 
