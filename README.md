@@ -22,6 +22,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [Wordsearch](#Wordsearch) - Wordsearch puzzle solver with UI in **Java** using Swing and searcher in **Erlang**
     * [Sudoku](#Sudoku) - A Sudoku puzzle solver with algorithm in **F#** and UI in **C#** Winforms
     * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
+    * [PegSolitaire](#PegSolitaire) - Peg Solitaire solver in **OCaml**
 * [Dump Folders](#Dump-Folders)
 
 ### Compilers and Interpreters
@@ -183,7 +184,6 @@ Fractals with zoom functionality in Python and Julia
 
 ***************************************************************************************************
 
-<!--
 #### [PegSolitaire](https://github.com/James-P-D/PegSolitaire)
 
 [https://github.com/James-P-D/PegSolitaire](https://github.com/James-P-D/PegSolitaire)
@@ -193,7 +193,7 @@ Fractals with zoom functionality in Python and Julia
 ![Screenshot](https://github.com/James-P-D/PegSolitaire/blob/master/screenshot.gif)
 
 ***************************************************************************************************
--->
+
 ### Dump Folders
 
 When learning any programming language, I create a 'dump' folder into which I commit various scripts during the learning process.
