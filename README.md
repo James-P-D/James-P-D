@@ -31,7 +31,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
 
 [https://github.com/James-P-D/Forthish](https://github.com/James-P-D/Forthish)
 
-A C# Console application for a [Forth](https://en.wikipedia.org/wiki/Forth_(programming_language))-like stack-based language
+A C# Console application for a Forth-like stack-based language
 
 ![Screenshot](https://github.com/James-P-D/Forthish/blob/master/screenshot.gif)
 
@@ -41,7 +41,7 @@ A C# Console application for a [Forth](https://en.wikipedia.org/wiki/Forth_(prog
 
 [https://github.com/James-P-D/Logo](https://github.com/James-P-D/Logo)
 
-An implementation of the educational programming language [Logo](https://en.wikipedia.org/wiki/Logo_(programming_language)) with the addition of variables, evaluations and basic control functions (`repeat`, `if..then..else`, `while`, `break`, `continue` etc.)
+An implementation of the educational programming language Logo with the addition of variables, evaluations and basic control functions (`repeat`, `if..then..else`, `while`, `break`, `continue` etc.)
 
 ![Screenshot](https://github.com/James-P-D/Logo/blob/master/screenshot.gif)
 
@@ -51,7 +51,7 @@ An implementation of the educational programming language [Logo](https://en.wiki
 
 [https://github.com/James-P-D/Lambda](https://github.com/James-P-D/Lambda)
 
-A simple [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus) expression interpreter in Java
+A simple Lambda Calculus expression interpreter in Java
 
 ![Screenshot](https://github.com/James-P-D/Lambda/blob/master/Screenshot.gif)
 
@@ -62,7 +62,7 @@ A simple [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus) expres
 
 [https://github.com/James-P-D/BrainfuckBrowser](https://github.com/James-P-D/BrainfuckBrowser)
 
-A very simple browser-based [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) interpreter in Javascript, HTML &amp; CSS
+A very simple browser-based Brainfuck interpreter in Javascript, HTML &amp; CSS
 
 ![Screenshot](https://github.com/James-P-D/BrainfuckBrowser/blob/master/screenshot.gif)
 
@@ -72,7 +72,7 @@ A very simple browser-based [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck)
 
 [https://github.com/James-P-D/BrainfuckCompiler](https://github.com/James-P-D/BrainfuckCompiler)
 
-A command-line node.js application for generating [MASM](http://masm32.com/download.htm)-compatible x86 Assembly versions of [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck) programs.
+A command-line node.js application for generating MASM-compatible x86 Assembly versions of Brainfuck programs.
 
 ![Screenshot](https://github.com/James-P-D/BrainfuckCompiler/blob/master/screenshot.gif)
 
@@ -94,7 +94,7 @@ A simple command-line tracert implementation in Python 3 using ICMP packets
 
 [https://github.com/James-P-D/TCPPortScan](https://github.com/James-P-D/TCPPortScan)
 
-A simple TCP Port Scanner in [Ruby](https://www.ruby-lang.org/en/)
+A simple TCP Port Scanner in Ruby
 
 ![Screenshot](https://github.com/James-P-D/TCPPortScan/blob/master/screenshot.gif)
 
@@ -104,7 +104,7 @@ A simple TCP Port Scanner in [Ruby](https://www.ruby-lang.org/en/)
 
 [https://github.com/James-P-D/DNS](https://github.com/James-P-D/DNS)
 
-A simple command-line [Domain Name System (DNS)](https://en.wikipedia.org/wiki/Domain_Name_System) tool in [Ruby](https://www.ruby-lang.org/en/)
+A simple command-line Domain Name System (DNS) tool in Ruby
 
 ![Screenshot](https://github.com/James-P-D/DNS/blob/master/screenshot.gif)
 
@@ -126,7 +126,7 @@ A command-line port scanner using raw SYN packets
 
 [https://github.com/James-P-D/TicTacToeMinimax](https://github.com/James-P-D/TicTacToeMinimax)
 
-A simple C# WinForms application for playing [Tic-Tac-Toe (Noughts &amp; Crosses)](https://en.wikipedia.org/wiki/Tic-tac-toe) using the [Minimax](https://en.wikipedia.org/wiki/Minimax) algorithm.
+A simple C# WinForms application for playing Tic-Tac-Toe (Noughts &amp; Crosses) using the Minimax algorithm.
 
 ![Screenshot](https://github.com/James-P-D/TicTacToeMinimax/blob/master/ttt.gif)
 
@@ -158,7 +158,7 @@ Maze Generation and Solving in Python
 
 [https://github.com/James-P-D/WordSearch](https://github.com/James-P-D/WordSearch)
 
-Wordsearch puzzle solver with [UI](https://github.com/James-P-D/WordSearch/blob/master/src/WordSearch/src/Main.java) in Java using Swing and [searcher](https://github.com/James-P-D/WordSearch/blob/master/src/WordSearch/src/library.erl) in Erlang.
+Wordsearch puzzle solver with UI in Java using Swing and searcher in Erlang.
 
 ![Screenshot](https://github.com/James-P-D/WordSearch/blob/master/Screenshot.gif)
 
@@ -188,7 +188,7 @@ Fractals with zoom functionality in Python and Julia
 
 [https://github.com/James-P-D/PegSolitaire](https://github.com/James-P-D/PegSolitaire)
 
-[Peg Solitaire](https://en.wikipedia.org/wiki/Peg_solitaire) solver in OCaml
+Peg Solitaire solver in OCaml
 
 ![Screenshot](https://github.com/James-P-D/PegSolitaire/blob/master/screenshot.gif)
 
