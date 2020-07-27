@@ -23,6 +23,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [Sudoku](#Sudoku) - A Sudoku puzzle solver with algorithm in **F#** and UI in **C#** Winforms
     * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
     * [PegSolitaire](#PegSolitaire) - Peg Solitaire solver in **OCaml**
+    * [Traintracks](#Traintracks) - Traintrack puzzle game in **Python**
 * [Dump Folders](#Dump-Folders)
 
 ### Compilers and Interpreters
@@ -191,6 +192,16 @@ Fractals with zoom functionality in Python and Julia
 Peg Solitaire solver in OCaml
 
 ![Screenshot](https://github.com/James-P-D/PegSolitaire/blob/master/screenshot.gif)
+
+***************************************************************************************************
+
+### [Traintracks](https://github.com/James-P-D/Traintracks)
+
+[https://github.com/James-P-D/Traintracks](https://github.com/James-P-D/Traintracks)
+
+Traintrack puzzle game in Python
+
+![Screenshot](https://github.com/James-P-D/Traintracks/blob/master/screenshot.gif)
 
 ***************************************************************************************************
 
