@@ -24,6 +24,8 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
     * [PegSolitaire](#PegSolitaire) - Peg Solitaire solver in **OCaml**
     * [Traintracks](#Traintracks) - Traintrack puzzle game in **Python**
+    * [GeniusSquare](#GeniusSquare) - Genius Square puzzle solver in **Python**
+
 * [Dump Folders](#Dump-Folders)
 
 ### Compilers and Interpreters
@@ -202,6 +204,16 @@ Peg Solitaire solver in OCaml
 Traintrack puzzle game in Python
 
 ![Screenshot](https://github.com/James-P-D/Traintracks/blob/master/screenshot.gif)
+
+***************************************************************************************************
+
+### [GeniusSquare](https://github.com/James-P-D/GeniusSquare)
+
+[https://github.com/James-P-D/GeniusSquare](https://github.com/James-P-D/GeniusSquare)
+
+Genius Square puzzle solver in Python
+
+![Screenshot](https://github.com/James-P-D/GeniusSquare/blob/master/screenshot.gif)
 
 ***************************************************************************************************
 
