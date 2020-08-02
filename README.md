@@ -17,6 +17,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
 * [Artificial Intelligence](#Artificial-Intelligence)
     * [TicTacToeMinimax](#TicTacToeMinimax) - A simple **C#** WinForms application for playing Tic-Tac-Toe (Noughts & Crosses) using the Minimax algorithm
     * [DraughtsMinimax](#DraughtsMinimax) - A **Processing** implementation of Draughts (Checkers) using Minimax
+    * [Connect4Minimax](#Connect4Minimax) - A Connect-4 game using **Javascript** and **p5.js**
 * [Miscellaneous](#Miscellaneous)
     * [Maze](#Maze) - Maze Generation and Solving in **Python**
     * [Wordsearch](#Wordsearch) - Wordsearch puzzle solver with UI in **Java** using Swing and searcher in **Erlang**
@@ -142,6 +143,16 @@ A simple C# WinForms application for playing Tic-Tac-Toe (Noughts &amp; Crosses)
 A Processing implementation of Draughts (Checkers) using Minimax
 
 ![Screenshot](https://github.com/James-P-D/DraughtsMinimax/blob/master/Screenshot.gif)
+
+***************************************************************************************************
+
+#### [Connect4Minimax](https://github.com/James-P-D/Connect4Minimax)
+
+[https://github.com/James-P-D/Connect4Minimax](https://github.com/James-P-D/Connect4Minimax)
+
+A Connect-4 game using Javascript and p5.js
+
+![Screenshot](https://github.com/James-P-D/Connect4Minimax/blob/master/screenshot.gif)
 
 ***************************************************************************************************
 
