@@ -240,7 +240,7 @@ The full list of 'dump' repositories is as follows:
 * [Java](https://github.com/James-P-D/JavaDump) - Java
 * [C](https://github.com/James-P-D/CDump) - Classic C
 * [C++](https://github.com/James-P-D/CPPDump) - *"There are only two kinds of languages: the ones people complain about and the ones nobody uses."* - Bjarne Stroustrup
-* [Rust](https://github.com/James-P-D/RustDump) -  *"most loved programming language"* in the Stack Overflow Developer Survey every year since 2016, apparently
+* [Rust](https://github.com/James-P-D/RustDump) - *"most loved programming language"* in the Stack Overflow Developer Survey every year since 2016, apparently
 * [Go](https://github.com/James-P-D/GoDump) - General purpose language created by Google
 * [Python](https://github.com/James-P-D/PythonDump) - A general purpose programming language whose popularity is inversely proportional to the amount of thought that went into creating it
 * [Ruby](https://github.com/James-P-D/RubyDump) - Ruby
