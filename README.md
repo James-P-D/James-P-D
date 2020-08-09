@@ -1,6 +1,6 @@
 ### James-P-D
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=James-P-D&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=James-P-D&layout=default&theme=tokyonight)
 
 Below is a quick overview of every repository on my Github. All projects are original sources (rather than forks of projects created by other users).
 
