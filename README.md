@@ -18,7 +18,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [TicTacToeMinimax](#TicTacToeMinimax) - A simple **C#** WinForms application for playing Tic-Tac-Toe (Noughts & Crosses) using the Minimax algorithm
     * [DraughtsMinimax](#DraughtsMinimax) - A **Processing** implementation of Draughts (Checkers) using Minimax
     * [Connect4Minimax](#Connect4Minimax) - A Connect-4 game using **Javascript** and **p5.js**
-* [Miscellaneous](#Miscellaneous)
+* [Puzzles](#Puzzles)
     * [Maze](#Maze) - Maze Generation and Solving in **Python**
     * [Wordsearch](#Wordsearch) - Wordsearch puzzle solver with UI in **Java** using Swing and searcher in **Erlang**
     * [Sudoku](#Sudoku) - A Sudoku puzzle solver with algorithm in **F#** and UI in **C#** Winforms
@@ -26,6 +26,8 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [PegSolitaire](#PegSolitaire) - Peg Solitaire solver in **OCaml**
     * [Traintracks](#Traintracks) - Traintrack puzzle game in **Python**
     * [GeniusSquare](#GeniusSquare) - Genius Square puzzle solver in **Python**
+* [Miscellaneous](#Miscellaneous)
+    * [BitwiseImages](#BitwiseImages) - Images created with bitwise operators in **Julia**
 
 * [Dump Folders](#Dump-Folders)
 
@@ -156,7 +158,7 @@ A Connect-4 game using Javascript and p5.js
 
 ***************************************************************************************************
 
-### Miscellaneous
+### Puzzles
 
 #### [Maze](https://github.com/James-P-D/Maze)
 
@@ -208,7 +210,7 @@ Peg Solitaire solver in OCaml
 
 ***************************************************************************************************
 
-### [Traintracks](https://github.com/James-P-D/Traintracks)
+#### [Traintracks](https://github.com/James-P-D/Traintracks)
 
 [https://github.com/James-P-D/Traintracks](https://github.com/James-P-D/Traintracks)
 
@@ -218,13 +220,21 @@ Traintrack puzzle game in Python
 
 ***************************************************************************************************
 
-### [GeniusSquare](https://github.com/James-P-D/GeniusSquare)
+#### [GeniusSquare](https://github.com/James-P-D/GeniusSquare)
 
 [https://github.com/James-P-D/GeniusSquare](https://github.com/James-P-D/GeniusSquare)
 
 Genius Square puzzle solver in Python
 
 ![Screenshot](https://github.com/James-P-D/GeniusSquare/blob/master/screenshot.gif)
+
+***************************************************************************************************
+
+### Miscellaneous
+
+#### [BitwiseImages](https://github.com/James-P-D/BitwiseImages)
+
+Images created with bitwise operators in Julia
 
 ***************************************************************************************************
 
