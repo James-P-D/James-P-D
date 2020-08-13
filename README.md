@@ -236,6 +236,8 @@ Genius Square puzzle solver in Python
 
 Images created with bitwise operators in Julia
 
+![Screenshot](https://github.com/James-P-D/BitwiseImages/blob/master/src/xor.png)
+
 ***************************************************************************************************
 
 ### Dump Folders
