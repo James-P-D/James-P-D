@@ -7,6 +7,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
 * [Compilers and Interpreters](#Compilers-and-Interpreters)
     * [Forthish](#Forthish) - A **C#** Console application for a Forth-like stack-based language
     * [Logo](#Logo) - A **C#** WinForms implementation of the educational programming language Logo with the addition of variables, evaluations and basic control functions (if/then/else/loops etc.)
+    * [Lispy](#Lispy) - A basic Lisp interpreter in **Nim**
     * [BrainfuckBrowser](#BrainfuckBrowser) - A very simple browser-based Brainfuck interpreter in **Javascript**, **HTML** & **CSS**
     * [BrainfuckCompiler](#BrainfuckCompiler) - A command-line **node.js** application for generating MASM-compatible **x86** **Assembly** versions of Brainfuck programs
 * [Networking Tools](#Networking-Tools)
@@ -22,11 +23,11 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [Maze](#Maze) - Maze Generation and Solving in **Python**
     * [Wordsearch](#Wordsearch) - Wordsearch puzzle solver with UI in **Java** using Swing and searcher in **Erlang**
     * [Sudoku](#Sudoku) - A Sudoku puzzle solver with algorithm in **F#** and UI in **C#** Winforms
-    * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
     * [PegSolitaire](#PegSolitaire) - Peg Solitaire solver in **OCaml**
     * [Traintracks](#Traintracks) - Traintrack puzzle game in **Python**
     * [GeniusSquare](#GeniusSquare) - Genius Square puzzle solver in **Python**
 * [Miscellaneous](#Miscellaneous)
+    * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
     * [BitwiseImages](#BitwiseImages) - Images created with bitwise operators in **Julia**
 
 * [Dump Folders](#Dump-Folders)
@@ -52,6 +53,17 @@ An implementation of the educational programming language Logo with the addition
 ![Screenshot](https://github.com/James-P-D/Logo/blob/master/screenshot.gif)
 
 ***************************************************************************************************
+
+#### [Lispy](https://github.com/James-P-D/Lispy)
+
+[https://github.com/James-P-D/Logo](https://github.com/James-P-D/Lispy)
+
+A basic Lisp interpreter in Nim
+
+![Screenshot](https://github.com/James-P-D/Lispy/blob/master/screenshot.gif)
+
+***************************************************************************************************
+
 <!--
 #### [Lambda](https://github.com/James-P-D/Lambda)
 
@@ -190,16 +202,6 @@ A Sudoku puzzle solver with algorithm in F# and UI in C# Winforms
 
 ***************************************************************************************************
 
-#### [Fractals](https://github.com/James-P-D/Fractals)
-
-[https://github.com/James-P-D/Fractals](https://github.com/James-P-D/Fractals)
-
-Fractals with zoom functionality in Python and Julia
-
-![Screenshot](https://github.com/James-P-D/Fractals/blob/master/screenshot.gif)
-
-***************************************************************************************************
-
 #### [PegSolitaire](https://github.com/James-P-D/PegSolitaire)
 
 [https://github.com/James-P-D/PegSolitaire](https://github.com/James-P-D/PegSolitaire)
@@ -231,6 +233,16 @@ Genius Square puzzle solver in Python
 ***************************************************************************************************
 
 ### Miscellaneous
+
+#### [Fractals](https://github.com/James-P-D/Fractals)
+
+[https://github.com/James-P-D/Fractals](https://github.com/James-P-D/Fractals)
+
+Fractals with zoom functionality in Python and Julia
+
+![Screenshot](https://github.com/James-P-D/Fractals/blob/master/screenshot.gif)
+
+***************************************************************************************************
 
 #### [BitwiseImages](https://github.com/James-P-D/BitwiseImages)
 
