@@ -56,7 +56,7 @@ An implementation of the educational programming language Logo with the addition
 
 #### [Lispy](https://github.com/James-P-D/Lispy)
 
-[https://github.com/James-P-D/Logo](https://github.com/James-P-D/Lispy)
+[https://github.com/James-P-D/Lispy](https://github.com/James-P-D/Lispy)
 
 A basic Lisp interpreter in Nim
 
