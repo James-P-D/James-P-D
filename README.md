@@ -15,18 +15,20 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [TCPPortScan](#TCPPortScan) - A simple TCP Port Scanner in **Ruby**
     * [DNS](#DNS) - A simple command-line Domain Name System tool in **Ruby**
     * [SYNScan](#SYNScan) - A command-line port scanner using raw SYN packets in **C**
+* [Web Tools](#Web-Tools)
+    * [RedditImageScraper](#RedditImageScraper) - Console application for downloading images from Reddit in **Python**
 * [Artificial Intelligence](#Artificial-Intelligence)
     * [TicTacToeMinimax](#TicTacToeMinimax) - A simple **C#** WinForms application for playing Tic-Tac-Toe (Noughts & Crosses) using the Minimax algorithm
     * [DraughtsMinimax](#DraughtsMinimax) - A **Processing** implementation of Draughts (Checkers) using Minimax
     * [Connect4Minimax](#Connect4Minimax) - A Connect-4 game using **Javascript** and **p5.js**
 * [Puzzles](#Puzzles)
-    * [Maze](#Maze) - Maze Generation and Solving in **Python**
     * [Wordsearch](#Wordsearch) - Wordsearch puzzle solver with UI in **Java** using Swing and searcher in **Erlang**
     * [Sudoku](#Sudoku) - A Sudoku puzzle solver with algorithm in **F#** and UI in **C#** Winforms
     * [PegSolitaire](#PegSolitaire) - Peg Solitaire solver in **OCaml**
     * [Traintracks](#Traintracks) - Traintrack puzzle game in **Python**
     * [GeniusSquare](#GeniusSquare) - Genius Square puzzle solver in **Python**
 * [Miscellaneous](#Miscellaneous)
+    * [Maze](#Maze) - Maze Generation and Solving in **Python**
     * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
     * [BitwiseImages](#BitwiseImages) - Images created with bitwise operators in **Julia**
 
@@ -138,6 +140,14 @@ A command-line port scanner using raw SYN packets
 
 ***************************************************************************************************
 
+### Web Tools
+
+#### [RedditImageScraper](https://github.com/James-P-D/RedditImageScraper)
+
+![Screenshot](https://github.com/James-P-D/RedditImageScraper/blob/master/screenshot.gif)
+
+***************************************************************************************************
+
 ### Artificial Intelligence
 
 #### [TicTacToeMinimax](https://github.com/James-P-D/TicTacToeMinimax)
@@ -171,16 +181,6 @@ A Connect-4 game using Javascript and p5.js
 ***************************************************************************************************
 
 ### Puzzles
-
-#### [Maze](https://github.com/James-P-D/Maze)
-
-[https://github.com/James-P-D/Maze](https://github.com/James-P-D/Maze)
-
-Maze Generation and Solving in Python
-
-![Screenshot](https://github.com/James-P-D/Maze/blob/master/screenshot.gif)
-
-***************************************************************************************************
 
 #### [Wordsearch](https://github.com/James-P-D/WordSearch)
 
@@ -233,6 +233,16 @@ Genius Square puzzle solver in Python
 ***************************************************************************************************
 
 ### Miscellaneous
+
+#### [Maze](https://github.com/James-P-D/Maze)
+
+[https://github.com/James-P-D/Maze](https://github.com/James-P-D/Maze)
+
+Maze Generation and Solving in Python
+
+***************************************************************************************************
+
+![Screenshot](https://github.com/James-P-D/Maze/blob/master/screenshot.gif)
 
 #### [Fractals](https://github.com/James-P-D/Fractals)
 
