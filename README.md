@@ -144,6 +144,10 @@ A command-line port scanner using raw SYN packets
 
 #### [RedditImageScraper](https://github.com/James-P-D/RedditImageScraper)
 
+[https://github.com/James-P-D/RedditImageScraper](https://github.com/James-P-D/RedditImageScraper)
+
+Console application for downloading images from Reddit in Python
+
 ![Screenshot](https://github.com/James-P-D/RedditImageScraper/blob/master/screenshot.gif)
 
 ***************************************************************************************************
