@@ -244,9 +244,9 @@ Genius Square puzzle solver in Python
 
 Maze Generation and Solving in Python
 
-***************************************************************************************************
-
 ![Screenshot](https://github.com/James-P-D/Maze/blob/master/screenshot.gif)
+
+***************************************************************************************************
 
 #### [Fractals](https://github.com/James-P-D/Fractals)
 
@@ -259,6 +259,8 @@ Fractals with zoom functionality in Python and Julia
 ***************************************************************************************************
 
 #### [BitwiseImages](https://github.com/James-P-D/BitwiseImages)
+
+[https://github.com/James-P-D/BitwiseImages](https://github.com/James-P-D/BitwiseImages)
 
 Images created with bitwise operators in Julia
 
@@ -298,3 +300,4 @@ The full list of 'dump' repositories is as follows:
 * [R](https://github.com/James-P-D/RDump) - Statistical programming language
 * [Prolog](https://github.com/James-P-D/PrologDump) - Old and largely forgotten logic programming language
 * [x86 Assembly](https://github.com/James-P-D/x86ASMDump) - x86 Assembly
+* [Wasm](https://github.com/James-P-D/WasmDump) - WebAssembly
