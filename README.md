@@ -300,4 +300,5 @@ The full list of 'dump' repositories is as follows:
 * [R](https://github.com/James-P-D/RDump) - Statistical programming language
 * [Prolog](https://github.com/James-P-D/PrologDump) - Old and largely forgotten logic programming language
 * [x86 Assembly](https://github.com/James-P-D/x86ASMDump) - x86 Assembly
-* [Wasm](https://github.com/James-P-D/WasmDump) - WebAssembly
+* [Wasm](https://github.com/James-P-D/WasmDump) - Low-level WebAssembly
+* [JavaByteCode](https://github.com/James-P-D/JavaByteCodeDump) - Low-level Java Byte Code
