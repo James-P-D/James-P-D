@@ -31,6 +31,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [Maze](#Maze) - Maze Generation and Solving in **Python**
     * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
     * [BitwiseImages](#BitwiseImages) - Images created with bitwise operators in **Julia**
+    * [MSPainter](#MSPainter) - Picture generator using MS Paint in **Python**
 
 * [Dump Folders](#Dump-Folders)
 
@@ -265,6 +266,16 @@ Fractals with zoom functionality in Python and Julia
 Images created with bitwise operators in Julia
 
 ![Screenshot](https://github.com/James-P-D/BitwiseImages/blob/master/src/xor.png)
+
+***************************************************************************************************
+
+#### [MSPainter](https://github.com/James-P-D/MSPainter)
+
+[https://github.com/James-P-D/BitwiseImages](https://github.com/James-P-D/BitwiseImages)
+
+Picture generator using MS Paint in Python
+
+![Screenshot](https://github.com/James-P-D/MSPainter/blob/main/screenshot.gif)
 
 ***************************************************************************************************
 
