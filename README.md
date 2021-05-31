@@ -271,7 +271,7 @@ Images created with bitwise operators in Julia
 
 #### [MSPainter](https://github.com/James-P-D/MSPainter)
 
-[https://github.com/James-P-D/BitwiseImages](https://github.com/James-P-D/BitwiseImages)
+[https://github.com/James-P-D/MSPainter](https://github.com/James-P-D/MSPainter)
 
 Picture generator using MS Paint in Python
 
