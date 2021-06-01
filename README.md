@@ -32,6 +32,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
     * [BitwiseImages](#BitwiseImages) - Images created with bitwise operators in **Julia**
     * [MSPainter](#MSPainter) - Picture generator using MS Paint in **Python**
+    * [GraphPlotter](#GraphPlotter) - Graph Plotter in **Python** using **Tkinter**
 
 * [Dump Folders](#Dump-Folders)
 
@@ -276,6 +277,16 @@ Images created with bitwise operators in Julia
 Picture generator using MS Paint in Python
 
 ![Screenshot](https://github.com/James-P-D/MSPainter/blob/main/screenshot.gif)
+
+***************************************************************************************************
+
+#### [GraphPlotter](https://github.com/James-P-D/GraphPlotter)
+
+[https://github.com/James-P-D/GraphPlotter](https://github.com/James-P-D/GraphPlotter)
+
+Graph Plotter in Python using Tkinter
+
+![Screenshot](https://github.com/James-P-D/GraphPlotter/blob/main/screenshot.gif)
 
 ***************************************************************************************************
 
