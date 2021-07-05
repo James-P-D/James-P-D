@@ -38,7 +38,9 @@ Below is a quick overview of every repository on my Github. All projects are ori
 
 ### Compilers and Interpreters
 
-#### [Forthish](https://github.com/James-P-D/Forthish) - [https://github.com/James-P-D/Forthish](https://github.com/James-P-D/Forthish)
+#### [Forthish](https://github.com/James-P-D/Forthish)
+
+[https://github.com/James-P-D/Forthish](https://github.com/James-P-D/Forthish)
 
 A C# Console application for a Forth-like stack-based language
 
@@ -46,7 +48,9 @@ A C# Console application for a Forth-like stack-based language
 
 ***************************************************************************************************
 
-#### [Logo](https://github.com/James-P-D/Logo) - [https://github.com/James-P-D/Logo](https://github.com/James-P-D/Logo)
+#### [Logo](https://github.com/James-P-D/Logo)
+
+[https://github.com/James-P-D/Logo](https://github.com/James-P-D/Logo)
 
 An implementation of the educational programming language Logo with the addition of variables, evaluations and basic control functions (`repeat`, `if..then..else`, `while`, `break`, `continue` etc.)
 
@@ -54,7 +58,9 @@ An implementation of the educational programming language Logo with the addition
 
 ***************************************************************************************************
 
-#### [Lispy](https://github.com/James-P-D/Lispy) - [https://github.com/James-P-D/Lispy](https://github.com/James-P-D/Lispy)
+#### [Lispy](https://github.com/James-P-D/Lispy)
+
+[https://github.com/James-P-D/Lispy](https://github.com/James-P-D/Lispy)
 
 A basic Lisp interpreter in Nim
 
@@ -63,7 +69,9 @@ A basic Lisp interpreter in Nim
 ***************************************************************************************************
 
 <!--
-#### [Lambda](https://github.com/James-P-D/Lambda) - [https://github.com/James-P-D/Lambda](https://github.com/James-P-D/Lambda)
+#### [Lambda](https://github.com/James-P-D/Lambda)
+
+[https://github.com/James-P-D/Lambda](https://github.com/James-P-D/Lambda)
 
 A simple Lambda Calculus expression interpreter in Java
 
@@ -72,7 +80,9 @@ A simple Lambda Calculus expression interpreter in Java
 ***************************************************************************************************
 -->
 
-#### [BrainfuckBrowser](https://github.com/James-P-D/BrainfuckBrowser) - [https://github.com/James-P-D/BrainfuckBrowser](https://github.com/James-P-D/BrainfuckBrowser)
+#### [BrainfuckBrowser](https://github.com/James-P-D/BrainfuckBrowser)
+
+[https://github.com/James-P-D/BrainfuckBrowser](https://github.com/James-P-D/BrainfuckBrowser)
 
 A very simple browser-based Brainfuck interpreter in Javascript, HTML &amp; CSS
 
@@ -80,7 +90,9 @@ A very simple browser-based Brainfuck interpreter in Javascript, HTML &amp; CSS
 
 ***************************************************************************************************
 
-#### [BrainfuckCompiler](https://github.com/James-P-D/BrainfuckCompiler) - [https://github.com/James-P-D/BrainfuckCompiler](https://github.com/James-P-D/BrainfuckCompiler)
+#### [BrainfuckCompiler](https://github.com/James-P-D/BrainfuckCompiler)
+
+[https://github.com/James-P-D/BrainfuckCompiler](https://github.com/James-P-D/BrainfuckCompiler)
 
 A command-line node.js application for generating MASM-compatible x86 Assembly versions of Brainfuck programs.
 
@@ -90,7 +102,9 @@ A command-line node.js application for generating MASM-compatible x86 Assembly v
 
 ### Networking Tools
 
-#### [Traceroute](https://github.com/James-P-D/Traceroute) - [https://github.com/James-P-D/Traceroute](https://github.com/James-P-D/Traceroute)
+#### [Traceroute](https://github.com/James-P-D/Traceroute)
+
+[https://github.com/James-P-D/Traceroute](https://github.com/James-P-D/Traceroute)
 
 A simple command-line tracert implementation in Python 3 using ICMP packets
 
@@ -98,7 +112,9 @@ A simple command-line tracert implementation in Python 3 using ICMP packets
 
 ***************************************************************************************************
 
-#### [TCPPortScan](https://github.com/James-P-D/TCPPortScan) - [https://github.com/James-P-D/TCPPortScan](https://github.com/James-P-D/TCPPortScan)
+#### [TCPPortScan](https://github.com/James-P-D/TCPPortScan)
+
+[https://github.com/James-P-D/TCPPortScan](https://github.com/James-P-D/TCPPortScan)
 
 A simple TCP Port Scanner in Ruby
 
@@ -106,7 +122,9 @@ A simple TCP Port Scanner in Ruby
 
 ***************************************************************************************************
 
-#### [DNS](https://github.com/James-P-D/DNS) - [https://github.com/James-P-D/DNS](https://github.com/James-P-D/DNS)
+#### [DNS](https://github.com/James-P-D/DNS)
+
+[https://github.com/James-P-D/DNS](https://github.com/James-P-D/DNS)
 
 A simple command-line Domain Name System (DNS) tool in Ruby
 
@@ -114,7 +132,9 @@ A simple command-line Domain Name System (DNS) tool in Ruby
 
 ***************************************************************************************************
 
-#### [SYNScan](https://github.com/James-P-D/SYNScan) - [https://github.com/James-P-D/SYNScan](https://github.com/James-P-D/SYNScan)
+#### [SYNScan](https://github.com/James-P-D/SYNScan)
+
+[https://github.com/James-P-D/SYNScan](https://github.com/James-P-D/SYNScan)
 
 A command-line port scanner using raw SYN packets
 
@@ -124,7 +144,9 @@ A command-line port scanner using raw SYN packets
 
 ### Web Tools
 
-#### [RedditImageScraper](https://github.com/James-P-D/RedditImageScraper) - [https://github.com/James-P-D/RedditImageScraper](https://github.com/James-P-D/RedditImageScraper)
+#### [RedditImageScraper](https://github.com/James-P-D/RedditImageScraper)
+
+[https://github.com/James-P-D/RedditImageScraper](https://github.com/James-P-D/RedditImageScraper)
 
 Console application for downloading images from Reddit in Python
 
@@ -134,7 +156,9 @@ Console application for downloading images from Reddit in Python
 
 ### Artificial Intelligence
 
-#### [TicTacToeMinimax](https://github.com/James-P-D/TicTacToeMinimax) - [https://github.com/James-P-D/TicTacToeMinimax](https://github.com/James-P-D/TicTacToeMinimax)
+#### [TicTacToeMinimax](https://github.com/James-P-D/TicTacToeMinimax)
+
+[https://github.com/James-P-D/TicTacToeMinimax](https://github.com/James-P-D/TicTacToeMinimax)
 
 A simple C# WinForms application for playing Tic-Tac-Toe (Noughts &amp; Crosses) using the Minimax algorithm.
 
@@ -142,7 +166,9 @@ A simple C# WinForms application for playing Tic-Tac-Toe (Noughts &amp; Crosses)
 
 ***************************************************************************************************
 
-#### [DraughtsMinimax](https://github.com/James-P-D/DraughtsMinimax) - [https://github.com/James-P-D/DraughtsMinimax](https://github.com/James-P-D/DraughtsMinimax)
+#### [DraughtsMinimax](https://github.com/James-P-D/DraughtsMinimax)
+
+[https://github.com/James-P-D/DraughtsMinimax](https://github.com/James-P-D/DraughtsMinimax)
 
 A Processing implementation of Draughts (Checkers) using Minimax
 
@@ -150,7 +176,9 @@ A Processing implementation of Draughts (Checkers) using Minimax
 
 ***************************************************************************************************
 
-#### [Connect4Minimax](https://github.com/James-P-D/Connect4Minimax) - [https://github.com/James-P-D/Connect4Minimax](https://github.com/James-P-D/Connect4Minimax)
+#### [Connect4Minimax](https://github.com/James-P-D/Connect4Minimax)
+
+[https://github.com/James-P-D/Connect4Minimax](https://github.com/James-P-D/Connect4Minimax)
 
 A Connect-4 game using Javascript and p5.js
 
@@ -160,7 +188,9 @@ A Connect-4 game using Javascript and p5.js
 
 ### Puzzles
 
-#### [Wordsearch](https://github.com/James-P-D/WordSearch) - [https://github.com/James-P-D/WordSearch](https://github.com/James-P-D/WordSearch)
+#### [Wordsearch](https://github.com/James-P-D/WordSearch)
+
+[https://github.com/James-P-D/WordSearch](https://github.com/James-P-D/WordSearch)
 
 Wordsearch puzzle solver with UI in Java using Swing and searcher in Erlang.
 
@@ -168,7 +198,9 @@ Wordsearch puzzle solver with UI in Java using Swing and searcher in Erlang.
 
 ***************************************************************************************************
 
-#### [Sudoku](https://github.com/James-P-D/Sudoku) - [https://github.com/James-P-D/Sudoku](https://github.com/James-P-D/Sudoku)
+#### [Sudoku](https://github.com/James-P-D/Sudoku)
+
+[https://github.com/James-P-D/Sudoku](https://github.com/James-P-D/Sudoku)
 
 A Sudoku puzzle solver with algorithm in F# and UI in C# Winforms
 
@@ -176,7 +208,9 @@ A Sudoku puzzle solver with algorithm in F# and UI in C# Winforms
 
 ***************************************************************************************************
 
-#### [PegSolitaire](https://github.com/James-P-D/PegSolitaire) - [https://github.com/James-P-D/PegSolitaire](https://github.com/James-P-D/PegSolitaire)
+#### [PegSolitaire](https://github.com/James-P-D/PegSolitaire)
+
+[https://github.com/James-P-D/PegSolitaire](https://github.com/James-P-D/PegSolitaire)
 
 Peg Solitaire solver in OCaml
 
@@ -184,7 +218,9 @@ Peg Solitaire solver in OCaml
 
 ***************************************************************************************************
 
-#### [Traintracks](https://github.com/James-P-D/Traintracks) - [https://github.com/James-P-D/Traintracks](https://github.com/James-P-D/Traintracks)
+#### [Traintracks](https://github.com/James-P-D/Traintracks)
+
+[https://github.com/James-P-D/Traintracks](https://github.com/James-P-D/Traintracks)
 
 Traintrack puzzle game in Python
 
@@ -192,7 +228,9 @@ Traintrack puzzle game in Python
 
 ***************************************************************************************************
 
-#### [GeniusSquare](https://github.com/James-P-D/GeniusSquare) - [https://github.com/James-P-D/GeniusSquare](https://github.com/James-P-D/GeniusSquare)
+#### [GeniusSquare](https://github.com/James-P-D/GeniusSquare)
+
+[https://github.com/James-P-D/GeniusSquare](https://github.com/James-P-D/GeniusSquare)
 
 Genius Square puzzle solver in Python
 
@@ -202,7 +240,9 @@ Genius Square puzzle solver in Python
 
 ### Miscellaneous
 
-#### [Maze](https://github.com/James-P-D/Maze) - [https://github.com/James-P-D/Maze](https://github.com/James-P-D/Maze)
+#### [Maze](https://github.com/James-P-D/Maze)
+
+[https://github.com/James-P-D/Maze](https://github.com/James-P-D/Maze)
 
 Maze Generation and Solving in Python
 
@@ -210,7 +250,9 @@ Maze Generation and Solving in Python
 
 ***************************************************************************************************
 
-#### [Fractals](https://github.com/James-P-D/Fractals) - [https://github.com/James-P-D/Fractals](https://github.com/James-P-D/Fractals)
+#### [Fractals](https://github.com/James-P-D/Fractals)
+
+[https://github.com/James-P-D/Fractals](https://github.com/James-P-D/Fractals)
 
 Fractals with zoom functionality in Python and Julia
 
@@ -218,7 +260,9 @@ Fractals with zoom functionality in Python and Julia
 
 ***************************************************************************************************
 
-#### [BitwiseImages](https://github.com/James-P-D/BitwiseImages) - [https://github.com/James-P-D/BitwiseImages](https://github.com/James-P-D/BitwiseImages)
+#### [BitwiseImages](https://github.com/James-P-D/BitwiseImages)
+
+[https://github.com/James-P-D/BitwiseImages](https://github.com/James-P-D/BitwiseImages)
 
 Images created with bitwise operators in Julia
 
@@ -226,7 +270,9 @@ Images created with bitwise operators in Julia
 
 ***************************************************************************************************
 
-#### [MSPainter](https://github.com/James-P-D/MSPainter) - [https://github.com/James-P-D/MSPainter](https://github.com/James-P-D/MSPainter)
+#### [MSPainter](https://github.com/James-P-D/MSPainter)
+
+[https://github.com/James-P-D/MSPainter](https://github.com/James-P-D/MSPainter)
 
 Picture generator using MS Paint in Python
 
@@ -234,7 +280,9 @@ Picture generator using MS Paint in Python
 
 ***************************************************************************************************
 
-#### [GraphPlotter](https://github.com/James-P-D/GraphPlotter) - [https://github.com/James-P-D/GraphPlotter](https://github.com/James-P-D/GraphPlotter)
+#### [GraphPlotter](https://github.com/James-P-D/GraphPlotter)
+
+[https://github.com/James-P-D/GraphPlotter](https://github.com/James-P-D/GraphPlotter)
 
 Graph Plotter in Python using Tkinter
 
