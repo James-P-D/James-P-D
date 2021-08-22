@@ -8,6 +8,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [Forthish](#Forthish) - A **C#** Console application for a Forth-like stack-based language
     * [Logo](#Logo) - A **C#** WinForms implementation of the educational programming language Logo with the addition of variables, evaluations and basic control functions (if/then/else/loops etc.)
     * [Lispy](#Lispy) - A basic Lisp interpreter in **Nim**
+    * [Subleq](#Subleq) - A Subleq interpreter in **Fortran**
     * [BrainfuckBrowser](#BrainfuckBrowser) - A very simple browser-based Brainfuck interpreter in **Javascript**, **HTML** & **CSS**
     * [BrainfuckCompiler](#BrainfuckCompiler) - A command-line **node.js** application for generating MASM-compatible **x86** **Assembly** versions of Brainfuck programs
 * [Networking Tools](#Networking-Tools)
@@ -65,6 +66,16 @@ An implementation of the educational programming language Logo with the addition
 A basic Lisp interpreter in Nim
 
 ![Screenshot](https://github.com/James-P-D/Lispy/blob/master/screenshot.png)
+
+***************************************************************************************************
+
+#### [Subleq](https://github.com/James-P-D/Lispy)
+
+[https://github.com/James-P-D/Subleq](https://github.com/James-P-D/Subleq)
+
+A Subleq interpreter in Fortran
+
+![Screenshot](https://github.com/James-P-D/Subleq/blob/main/screenshot.png)
 
 ***************************************************************************************************
 
