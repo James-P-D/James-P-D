@@ -320,6 +320,7 @@ The full list of 'dump' repositories is as follows:
 * [Processing](https://github.com/James-P-D/ProcessingDump) - An educational programming language made for visual design - similar to, and compiles to, Java.
 * [Julia](https://github.com/James-P-D/JuliaDump) - A high-level (but fast) programming language for science and maths. Often touted as a replacement for MATLAB.
 * [Nim](https://github.com/James-P-D/NimDump) - A rarely used but fascinating language with a host of interesting programming features
+* [Raku](https://github.com/James-P-D/RakuDump) - Rebranded Perl 6
 * [Javascript](https://github.com/James-P-D/JavascriptDump) - Everyone uses it, everyone hates it, and everyone keeps using it
 * [TypeScript](https://github.com/James-P-D/TypeScriptDump) - Javascript superset with an actual type-system
 * [Lisp](https://github.com/James-P-D/LispDump) - Common Lisp
