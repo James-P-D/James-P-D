@@ -333,6 +333,7 @@ The full list of 'dump' repositories is as follows:
 * [Elixir](https://github.com/James-P-D/ElixirDump) - Functional programming language that runs on the Erlang VM
 * [R](https://github.com/James-P-D/RDump) - Statistical programming language
 * [Prolog](https://github.com/James-P-D/PrologDump) - Old and largely forgotten logic programming language
+* [SNOBOL](https://github.com/James-P-D/SNOBOLDump) - Very old language for string-orientated programming language
 * [PostScript](https://github.com/James-P-D/PostScriptDump) - Stack-based page description language
 * [x86 Assembly](https://github.com/James-P-D/x86ASMDump) - x86 Assembly
 * [Wasm](https://github.com/James-P-D/WasmDump) - Low-level WebAssembly
