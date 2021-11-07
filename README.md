@@ -34,6 +34,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [BitwiseImages](#BitwiseImages) - Images created with bitwise operators in **Julia**
     * [MSPainter](#MSPainter) - Picture generator using MS Paint in **Python**
     * [GraphPlotter](#GraphPlotter) - Graph Plotter in **Python** using **Tkinter**
+    * [Hangman](#Hangman) - Hangman in **SNOBOL**
 
 * [Dump Folders](#Dump-Folders)
 
@@ -298,6 +299,16 @@ Picture generator using MS Paint in Python
 Graph Plotter in Python using Tkinter
 
 ![Screenshot](https://github.com/James-P-D/GraphPlotter/blob/main/screenshot.png)
+
+***************************************************************************************************
+
+#### [Hangman](https://github.com/James-P-D/Hangman)
+
+[https://github.com/James-P-D/Hangman](https://github.com/James-P-D/Hangman)
+
+Hangman in **SNOBOL**
+
+![Screenshot](https://github.com/James-P-D/Hangman/blob/main/screenshot.png)
 
 ***************************************************************************************************
 
