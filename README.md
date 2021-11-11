@@ -28,13 +28,14 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [PegSolitaire](#PegSolitaire) - Peg Solitaire solver in **OCaml**
     * [Traintracks](#Traintracks) - Traintrack puzzle game in **Python**
     * [GeniusSquare](#GeniusSquare) - Genius Square puzzle solver in **Python**
+    * [Hangman](#Hangman) - Hangman in **SNOBOL**
 * [Miscellaneous](#Miscellaneous)
     * [Maze](#Maze) - Maze Generation and Solving in **Python**
     * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
     * [BitwiseImages](#BitwiseImages) - Images created with bitwise operators in **Julia**
     * [MSPainter](#MSPainter) - Picture generator using MS Paint in **Python**
     * [GraphPlotter](#GraphPlotter) - Graph Plotter in **Python** using **Tkinter**
-    * [Hangman](#Hangman) - Hangman in **SNOBOL**
+    * [ImageToANSI](#ImageToANSI) - Image to ANSI converter in **Perl**
 
 * [Dump Folders](#Dump-Folders)
 
@@ -250,6 +251,16 @@ Genius Square puzzle solver in Python
 
 ***************************************************************************************************
 
+#### [Hangman](https://github.com/James-P-D/Hangman)
+
+[https://github.com/James-P-D/Hangman](https://github.com/James-P-D/Hangman)
+
+Hangman in **SNOBOL**
+
+![Screenshot](https://github.com/James-P-D/Hangman/blob/main/screenshot.png)
+
+***************************************************************************************************
+
 ### Miscellaneous
 
 #### [Maze](https://github.com/James-P-D/Maze)
@@ -302,13 +313,15 @@ Graph Plotter in Python using Tkinter
 
 ***************************************************************************************************
 
-#### [Hangman](https://github.com/James-P-D/Hangman)
+* [ImageToANSI](#ImageToANSI) - Image to ANSI converter in **Perl**
 
-[https://github.com/James-P-D/Hangman](https://github.com/James-P-D/Hangman)
+#### [ImageToANSI](https://github.com/James-P-D/ImageToANSI)
 
-Hangman in **SNOBOL**
+[https://github.com/James-P-D/ImageToANSI](https://github.com/James-P-D/ImageToANSI)
 
-![Screenshot](https://github.com/James-P-D/Hangman/blob/main/screenshot.png)
+Image to ANSI converter in Perl
+
+![Screenshot](https://github.com/James-P-D/ImageToANSI/blob/main/screenshot.png)
 
 ***************************************************************************************************
 
