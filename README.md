@@ -313,8 +313,6 @@ Graph Plotter in Python using Tkinter
 
 ***************************************************************************************************
 
-* [ImageToANSI](#ImageToANSI) - Image to ANSI converter in **Perl**
-
 #### [ImageToANSI](https://github.com/James-P-D/ImageToANSI)
 
 [https://github.com/James-P-D/ImageToANSI](https://github.com/James-P-D/ImageToANSI)
