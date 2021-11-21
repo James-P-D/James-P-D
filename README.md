@@ -262,8 +262,6 @@ Hangman in **SNOBOL**
 
 ***************************************************************************************************
 
-* [ConsoleSnake](#ConsoleSnake) - Snake game for Windows console in **C/C++**
-
 #### [ConsoleSnake](https://github.com/James-P-D/ConsoleSnake)
 
 [https://github.com/James-P-D/ConsoleSnake](https://github.com/James-P-D/ConsoleSnake)
