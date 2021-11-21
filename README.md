@@ -29,6 +29,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [Traintracks](#Traintracks) - Traintrack puzzle game in **Python**
     * [GeniusSquare](#GeniusSquare) - Genius Square puzzle solver in **Python**
     * [Hangman](#Hangman) - Hangman in **SNOBOL**
+    * [ConsoleSnake](#ConsoleSnake) - Snake game for Windows console in **C/C++**
 * [Miscellaneous](#Miscellaneous)
     * [Maze](#Maze) - Maze Generation and Solving in **Python**
     * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
@@ -258,6 +259,18 @@ Genius Square puzzle solver in Python
 Hangman in **SNOBOL**
 
 ![Screenshot](https://github.com/James-P-D/Hangman/blob/main/screenshot.png)
+
+***************************************************************************************************
+
+* [ConsoleSnake](#ConsoleSnake) - Snake game for Windows console in **C/C++**
+
+#### [ConsoleSnake](https://github.com/James-P-D/ConsoleSnake)
+
+[https://github.com/James-P-D/ConsoleSnake](https://github.com/James-P-D/ConsoleSnake)
+
+Snake game for Windows console in **C/C++**
+
+![Screenshot](https://github.com/James-P-D/ConsoleSnake/blob/main/screenshot.png)
 
 ***************************************************************************************************
 
