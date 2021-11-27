@@ -30,6 +30,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [GeniusSquare](#GeniusSquare) - Genius Square puzzle solver in **Python**
     * [Hangman](#Hangman) - Hangman in **SNOBOL**
     * [ConsoleSnake](#ConsoleSnake) - Snake game for Windows console in **C/C++**
+    * [Pong](#Pong) - Pong game in **x86** **Assembler**
 * [Miscellaneous](#Miscellaneous)
     * [Maze](#Maze) - Maze Generation and Solving in **Python**
     * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
@@ -46,7 +47,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
 
 [https://github.com/James-P-D/Forthish](https://github.com/James-P-D/Forthish)
 
-A C# Console application for a Forth-like stack-based language
+A **C#** Console application for a Forth-like stack-based language
 
 ![Screenshot](https://github.com/James-P-D/Forthish/blob/master/screenshot.png)
 
@@ -56,7 +57,7 @@ A C# Console application for a Forth-like stack-based language
 
 [https://github.com/James-P-D/Logo](https://github.com/James-P-D/Logo)
 
-An implementation of the educational programming language Logo with the addition of variables, evaluations and basic control functions (`repeat`, `if..then..else`, `while`, `break`, `continue` etc.)
+An implementation of the educational programming language Logo with the addition of variables, evaluations and basic control functions (`repeat`, `if..then..else`, `while`, `break`, `continue` etc.) in **C#**
 
 ![Screenshot](https://github.com/James-P-D/Logo/blob/master/screenshot.png)
 
@@ -66,7 +67,7 @@ An implementation of the educational programming language Logo with the addition
 
 [https://github.com/James-P-D/Lispy](https://github.com/James-P-D/Lispy)
 
-A basic Lisp interpreter in Nim
+A basic Lisp interpreter in **Nim**
 
 ![Screenshot](https://github.com/James-P-D/Lispy/blob/master/screenshot.png)
 
@@ -76,7 +77,7 @@ A basic Lisp interpreter in Nim
 
 [https://github.com/James-P-D/Subleq](https://github.com/James-P-D/Subleq)
 
-A Subleq interpreter in Fortran
+A Subleq interpreter in **Fortran**
 
 ![Screenshot](https://github.com/James-P-D/Subleq/blob/main/screenshot.png)
 
@@ -87,7 +88,7 @@ A Subleq interpreter in Fortran
 
 [https://github.com/James-P-D/Lambda](https://github.com/James-P-D/Lambda)
 
-A simple Lambda Calculus expression interpreter in Java
+A simple Lambda Calculus expression interpreter in **Java**
 
 ![Screenshot](https://github.com/James-P-D/Lambda/blob/master/Screenshot.png)
 
@@ -98,7 +99,7 @@ A simple Lambda Calculus expression interpreter in Java
 
 [https://github.com/James-P-D/BrainfuckBrowser](https://github.com/James-P-D/BrainfuckBrowser)
 
-A very simple browser-based Brainfuck interpreter in Javascript, HTML &amp; CSS
+A very simple browser-based Brainfuck interpreter in **Javascript**, **HTML** &amp; **CSS**
 
 ![Screenshot](https://github.com/James-P-D/BrainfuckBrowser/blob/master/screenshot.png)
 
@@ -108,7 +109,7 @@ A very simple browser-based Brainfuck interpreter in Javascript, HTML &amp; CSS
 
 [https://github.com/James-P-D/BrainfuckCompiler](https://github.com/James-P-D/BrainfuckCompiler)
 
-A command-line node.js application for generating MASM-compatible x86 Assembly versions of Brainfuck programs.
+A command-line **node.js** application for generating MASM-compatible **x86** **Assembly** versions of Brainfuck programs.
 
 ![Screenshot](https://github.com/James-P-D/BrainfuckCompiler/blob/master/screenshot.png)
 
@@ -120,7 +121,7 @@ A command-line node.js application for generating MASM-compatible x86 Assembly v
 
 [https://github.com/James-P-D/Traceroute](https://github.com/James-P-D/Traceroute)
 
-A simple command-line tracert implementation in Python 3 using ICMP packets
+A simple command-line tracert implementation in **Python** using ICMP packets
 
 ![Screenshot](https://github.com/James-P-D/Traceroute/blob/master/screenshot.png)
 
@@ -130,7 +131,7 @@ A simple command-line tracert implementation in Python 3 using ICMP packets
 
 [https://github.com/James-P-D/TCPPortScan](https://github.com/James-P-D/TCPPortScan)
 
-A simple TCP Port Scanner in Ruby
+A simple TCP Port Scanner in **Ruby**
 
 ![Screenshot](https://github.com/James-P-D/TCPPortScan/blob/master/screenshot.png)
 
@@ -140,7 +141,7 @@ A simple TCP Port Scanner in Ruby
 
 [https://github.com/James-P-D/DNS](https://github.com/James-P-D/DNS)
 
-A simple command-line Domain Name System (DNS) tool in Ruby
+A simple command-line Domain Name System (DNS) tool in **Ruby**
 
 ![Screenshot](https://github.com/James-P-D/DNS/blob/master/screenshot.png)
 
@@ -150,7 +151,7 @@ A simple command-line Domain Name System (DNS) tool in Ruby
 
 [https://github.com/James-P-D/SYNScan](https://github.com/James-P-D/SYNScan)
 
-A command-line port scanner using raw SYN packets
+A command-line port scanner using raw SYN packets in **C**
 
 ![Screenshot](https://github.com/James-P-D/SYNScan/blob/master/Screenshot.png)
 
@@ -162,7 +163,7 @@ A command-line port scanner using raw SYN packets
 
 [https://github.com/James-P-D/RedditImageScraper](https://github.com/James-P-D/RedditImageScraper)
 
-Console application for downloading images from Reddit in Python
+Console application for downloading images from Reddit in **Python**
 
 ![Screenshot](https://github.com/James-P-D/RedditImageScraper/blob/master/screenshot.png)
 
@@ -174,7 +175,7 @@ Console application for downloading images from Reddit in Python
 
 [https://github.com/James-P-D/TicTacToeMinimax](https://github.com/James-P-D/TicTacToeMinimax)
 
-A simple C# WinForms application for playing Tic-Tac-Toe (Noughts &amp; Crosses) using the Minimax algorithm.
+A simple **C#** WinForms application for playing Tic-Tac-Toe (Noughts &amp; Crosses) using the Minimax algorithm.
 
 ![Screenshot](https://github.com/James-P-D/TicTacToeMinimax/blob/master/ttt.png)
 
@@ -184,7 +185,7 @@ A simple C# WinForms application for playing Tic-Tac-Toe (Noughts &amp; Crosses)
 
 [https://github.com/James-P-D/DraughtsMinimax](https://github.com/James-P-D/DraughtsMinimax)
 
-A Processing implementation of Draughts (Checkers) using Minimax
+A **Processing** implementation of Draughts (Checkers) using Minimax
 
 ![Screenshot](https://github.com/James-P-D/DraughtsMinimax/blob/master/Screenshot.png)
 
@@ -194,7 +195,7 @@ A Processing implementation of Draughts (Checkers) using Minimax
 
 [https://github.com/James-P-D/Connect4Minimax](https://github.com/James-P-D/Connect4Minimax)
 
-A Connect-4 game using Javascript and p5.js
+A Connect-4 game using **Javascript** and **p5.js**
 
 ![Screenshot](https://github.com/James-P-D/Connect4Minimax/blob/master/screenshot.png)
 
@@ -206,7 +207,7 @@ A Connect-4 game using Javascript and p5.js
 
 [https://github.com/James-P-D/WordSearch](https://github.com/James-P-D/WordSearch)
 
-Wordsearch puzzle solver with UI in Java using Swing and searcher in Erlang.
+Wordsearch puzzle solver with UI in **Java** using Swing and searcher in **Erlang**.
 
 ![Screenshot](https://github.com/James-P-D/WordSearch/blob/master/Screenshot.png)
 
@@ -216,7 +217,7 @@ Wordsearch puzzle solver with UI in Java using Swing and searcher in Erlang.
 
 [https://github.com/James-P-D/Sudoku](https://github.com/James-P-D/Sudoku)
 
-A Sudoku puzzle solver with algorithm in F# and UI in C# Winforms
+A Sudoku puzzle solver with algorithm in **F#** and UI in **C#** Winforms
 
 ![Screenshot](https://github.com/James-P-D/Sudoku/blob/master/Screenshot.png)
 
@@ -226,7 +227,7 @@ A Sudoku puzzle solver with algorithm in F# and UI in C# Winforms
 
 [https://github.com/James-P-D/PegSolitaire](https://github.com/James-P-D/PegSolitaire)
 
-Peg Solitaire solver in OCaml
+Peg Solitaire solver in **OCaml**
 
 ![Screenshot](https://github.com/James-P-D/PegSolitaire/blob/master/screenshot.png)
 
@@ -236,7 +237,7 @@ Peg Solitaire solver in OCaml
 
 [https://github.com/James-P-D/Traintracks](https://github.com/James-P-D/Traintracks)
 
-Traintrack puzzle game in Python
+Traintrack puzzle game in **Python**
 
 ![Screenshot](https://github.com/James-P-D/Traintracks/blob/master/screenshot.png)
 
@@ -246,7 +247,7 @@ Traintrack puzzle game in Python
 
 [https://github.com/James-P-D/GeniusSquare](https://github.com/James-P-D/GeniusSquare)
 
-Genius Square puzzle solver in Python
+Genius Square puzzle solver in **Python**
 
 ![Screenshot](https://github.com/James-P-D/GeniusSquare/blob/master/screenshot.png)
 
@@ -272,13 +273,23 @@ Snake game for Windows console in **C/C++**
 
 ***************************************************************************************************
 
+#### [Pong](https://github.com/James-P-D/Pong)
+
+[https://github.com/James-P-D/Pong](https://github.com/James-P-D/Pong)
+
+Pong game in **x86** **Assembler**
+
+![Screenshot](https://github.com/James-P-D/Pong/blob/main/screenshot.png)
+
+***************************************************************************************************
+
 ### Miscellaneous
 
 #### [Maze](https://github.com/James-P-D/Maze)
 
 [https://github.com/James-P-D/Maze](https://github.com/James-P-D/Maze)
 
-Maze Generation and Solving in Python
+Maze Generation and Solving in **Python**
 
 ![Screenshot](https://github.com/James-P-D/Maze/blob/master/screenshot.png)
 
@@ -288,7 +299,7 @@ Maze Generation and Solving in Python
 
 [https://github.com/James-P-D/Fractals](https://github.com/James-P-D/Fractals)
 
-Fractals with zoom functionality in Python and Julia
+Fractals with zoom functionality in **Python** and **Julia**
 
 ![Screenshot](https://github.com/James-P-D/Fractals/blob/master/screenshot.png)
 
@@ -298,7 +309,7 @@ Fractals with zoom functionality in Python and Julia
 
 [https://github.com/James-P-D/BitwiseImages](https://github.com/James-P-D/BitwiseImages)
 
-Images created with bitwise operators in Julia
+Images created with bitwise operators in **Julia**
 
 ![Screenshot](https://github.com/James-P-D/BitwiseImages/blob/master/src/xor.png)
 
@@ -308,7 +319,7 @@ Images created with bitwise operators in Julia
 
 [https://github.com/James-P-D/MSPainter](https://github.com/James-P-D/MSPainter)
 
-Picture generator using MS Paint in Python
+Picture generator using MS Paint in **Python**
 
 ![Screenshot](https://github.com/James-P-D/MSPainter/blob/main/screenshot.png)
 
@@ -318,7 +329,7 @@ Picture generator using MS Paint in Python
 
 [https://github.com/James-P-D/GraphPlotter](https://github.com/James-P-D/GraphPlotter)
 
-Graph Plotter in Python using Tkinter
+Graph Plotter in **Python** using **Tkinter**
 
 ![Screenshot](https://github.com/James-P-D/GraphPlotter/blob/main/screenshot.png)
 
@@ -328,7 +339,7 @@ Graph Plotter in Python using Tkinter
 
 [https://github.com/James-P-D/ImageToANSI](https://github.com/James-P-D/ImageToANSI)
 
-Image to ANSI converter in Perl
+Image to ANSI converter in **Perl**
 
 ![Screenshot](https://github.com/James-P-D/ImageToANSI/blob/main/screenshot.png)
 
