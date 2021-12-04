@@ -122,7 +122,7 @@ A command-line **node.js** application for generating MASM-compatible **x86** **
 
 3D Logo interpreter in **Python** using OpenGL
 
-![Screenshot](https://github.com/James-P-D/Logo3D/blob/main/screenshot.gif)
+![Screenshot](https://github.com/James-P-D/Logo3D/blob/main/screenshot.png)
 
 ***************************************************************************************************
 
