@@ -85,7 +85,7 @@ A Subleq interpreter in **Fortran**
 
 ***************************************************************************************************
 
-#### [Subleq](https://github.com/James-P-D/AnalyticalEngine)
+#### [AnalyticalEngine](https://github.com/James-P-D/AnalyticalEngine)
 
 [https://github.com/James-P-D/AnalyticalEngine](https://github.com/James-P-D/AnalyticalEngine)
 
