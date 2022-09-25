@@ -196,7 +196,7 @@ Console application for downloading images from Reddit in **Python**
 
 ### Artificial Intelligence
 
-#### [GOFAI]GOFAI
+#### GOFAI
 
 #### [TicTacToeMinimax](https://github.com/James-P-D/TicTacToeMinimax)
 
@@ -228,7 +228,7 @@ A Connect-4 game using **Javascript** and **p5.js**
 
 ***************************************************************************************************
 
-#### [Robotics]Robotics
+#### Robotics
 
 #### [RobotArmGestures](https://github.com/James-P-D/RobotArmGestures)
 
