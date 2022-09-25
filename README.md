@@ -21,9 +21,12 @@ Below is a quick overview of every repository on my Github. All projects are ori
 * [Web Tools](#Web-Tools)
     * [RedditImageScraper](#RedditImageScraper) - Console application for downloading images from Reddit in **Python**
 * [Artificial Intelligence](#Artificial-Intelligence)
-    * [TicTacToeMinimax](#TicTacToeMinimax) - A simple **C#** WinForms application for playing Tic-Tac-Toe (Noughts & Crosses) using the Minimax algorithm
-    * [DraughtsMinimax](#DraughtsMinimax) - A **Processing** implementation of Draughts (Checkers) using Minimax
-    * [Connect4Minimax](#Connect4Minimax) - A Connect-4 game using **Javascript** and **p5.js**
+    * [GOFAI](#GOFAI)
+        * [TicTacToeMinimax](#TicTacToeMinimax) - A simple **C#** WinForms application for playing Tic-Tac-Toe (Noughts & Crosses) using the Minimax algorithm
+        * [DraughtsMinimax](#DraughtsMinimax) - A **Processing** implementation of Draughts (Checkers) using Minimax
+        * [Connect4Minimax](#Connect4Minimax) - A Connect-4 game using **Javascript** and **p5.js**
+    * [Robotics](#Robotics)
+        * [RobotArmGestures](#RobotArmGestures) - Controlling the Hiwonder xArm1S robotic arm with hand gestures in **Python**
 * [Puzzles](#Puzzles)
     * [Wordsearch](#Wordsearch) - Wordsearch puzzle solver with UI in **Java** using Swing and searcher in **Erlang**
     * [Sudoku](#Sudoku) - A Sudoku puzzle solver with algorithm in **F#** and UI in **C#** Winforms
@@ -193,6 +196,8 @@ Console application for downloading images from Reddit in **Python**
 
 ### Artificial Intelligence
 
+#### [GOFAI]GOFAI
+
 #### [TicTacToeMinimax](https://github.com/James-P-D/TicTacToeMinimax)
 
 [https://github.com/James-P-D/TicTacToeMinimax](https://github.com/James-P-D/TicTacToeMinimax)
@@ -220,6 +225,18 @@ A **Processing** implementation of Draughts (Checkers) using Minimax
 A Connect-4 game using **Javascript** and **p5.js**
 
 ![Screenshot](https://github.com/James-P-D/Connect4Minimax/blob/master/screenshot.png)
+
+***************************************************************************************************
+
+#### [Robotics]Robotics
+
+#### [RobotArmGestures](https://github.com/James-P-D/RobotArmGestures)
+
+[https://github.com/James-P-D/RobotArmGestures](https://github.com/James-P-D/RobotArmGestures)
+
+Controlling the Hiwonder xArm1S robotic arm with hand gestures in **Python**
+
+![Screenshot](https://github.com/James-P-D/RobotArmGestures/blob/main/screenshot.png)
 
 ***************************************************************************************************
 
