@@ -43,6 +43,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [MSPainter](#MSPainter) - Picture generator using MS Paint in **Python**
     * [GraphPlotter](#GraphPlotter) - Graph Plotter in **Python** using **Tkinter**
     * [ImageToANSI](#ImageToANSI) - Image to ANSI converter in **Perl**
+    * [TextToSpeechTail](#TextToSpeechTail) - Console tail application with online/offline text-to-speech in **Python**
 
 * [Dump Folders](#Dump-Folders)
 
@@ -381,6 +382,16 @@ Graph Plotter in **Python** using **Tkinter**
 Image to ANSI converter in **Perl**
 
 ![Screenshot](https://github.com/James-P-D/ImageToANSI/blob/main/screenshot.png)
+
+***************************************************************************************************
+
+#### [TextToSpeechTail]https://github.com/James-P-D/TextToSpeechTail)
+
+[https://github.com/James-P-D/TextToSpeechTail](https://github.com/James-P-D/TextToSpeechTail)
+
+Console tail application with online/offline text-to-speech in **Python**
+
+![Screenshot](https://github.com/James-P-D/TextToSpeechTail/blob/main/screenshot.png)
 
 ***************************************************************************************************
 
