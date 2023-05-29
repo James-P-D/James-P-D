@@ -13,6 +13,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [BrainfuckBrowser](#BrainfuckBrowser) - A very simple browser-based Brainfuck interpreter in **Javascript**, **HTML** & **CSS**
     * [BrainfuckCompiler](#BrainfuckCompiler) - A command-line **node.js** application for generating MASM-compatible **x86** **Assembly** versions of Brainfuck programs
     * [Logo3D](#Logo3D) - 3D Logo interpreter in **Python** using OpenGL
+    * [Lambda](#Lambda) - A simple Lambda Calculus expression interpreter in **Java**
 * [Networking Tools](#Networking-Tools)
     * [Traceroute](#Traceroute) - A simple command-line tracert implementation in **Python 3** using ICMP packets
     * [TCPPortScan](#TCPPortScan) - A simple TCP Port Scanner in **Ruby**
@@ -99,18 +100,6 @@ Analytical Engine emulator in **Raku**
 
 ***************************************************************************************************
 
-<!--
-#### [Lambda](https://github.com/James-P-D/Lambda)
-
-[https://github.com/James-P-D/Lambda](https://github.com/James-P-D/Lambda)
-
-A simple Lambda Calculus expression interpreter in **Java**
-
-![Screenshot](https://github.com/James-P-D/Lambda/blob/master/Screenshot.png)
-
-***************************************************************************************************
--->
-
 #### [BrainfuckBrowser](https://github.com/James-P-D/BrainfuckBrowser)
 
 [https://github.com/James-P-D/BrainfuckBrowser](https://github.com/James-P-D/BrainfuckBrowser)
@@ -140,6 +129,17 @@ A command-line **node.js** application for generating MASM-compatible **x86** **
 ![Screenshot](https://github.com/James-P-D/Logo3D/blob/main/screenshot.png)
 
 ***************************************************************************************************
+
+#### [Lambda](https://github.com/James-P-D/Lambda)
+
+[https://github.com/James-P-D/Lambda](https://github.com/James-P-D/Lambda)
+
+A simple Lambda Calculus expression interpreter in **Java**
+
+![Screenshot](https://github.com/James-P-D/Lambda/blob/master/Screenshot.png)
+
+***************************************************************************************************
+
 
 ### Networking Tools
 
