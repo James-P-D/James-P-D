@@ -37,6 +37,10 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [Hangman](#Hangman) - Hangman in **SNOBOL**
     * [ConsoleSnake](#ConsoleSnake) - Snake game for Windows console in **C/C++**
     * [Pong](#Pong) - Pong game in **x86** **Assembler**
+* [Bluetooth](#Bluetooth)
+    * [AdafruitBLESniffer](#AdafruitBLESniffer) - Bluetooth sniffer for the Adafruit Bluefruit device in **Python**
+* [Lora](#Lora)
+    * [LoStikLoraChat](#LoStikLoraChat) - Simple text chat client for the LoStik Lora device using **Python** and **PySimpleGUI** for UI
 * [Miscellaneous](#Miscellaneous)
     * [Maze](#Maze) - Maze Generation and Solving in **Python**
     * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
@@ -320,6 +324,30 @@ Snake game for Windows console in **C/C++**
 Pong game in **x86** **Assembler**
 
 ![Screenshot](https://github.com/James-P-D/Pong/blob/main/screenshot.png)
+
+***************************************************************************************************
+
+### Bluetooth
+
+#### [AdafruitBLESniffer](https://github.com/James-P-D/AdafruitBLESniffer)
+
+[https://github.com/James-P-D/AdafruitBLESniffer](https://github.com/James-P-D/AdafruitBLESniffer)
+
+Bluetooth sniffer for the Adafruit Bluefruit device in **Python**
+
+![Screenshot](https://github.com/James-P-D/AdafruitBLESniffer/blob/main/screenshot.png)
+
+***************************************************************************************************
+
+### Lora
+
+#### [LoStikLoraChat](https://github.com/James-P-D/LoStikLoraChat)
+
+[https://github.com/James-P-D/LoStikLoraChat](https://github.com/James-P-D/LoStikLoraChat)
+
+Simple text chat client for the LoStik Lora device using **Python** and **PySimpleGUI** for UI
+
+![Screenshot](https://github.com/James-P-D/LoStikLoraChat/blob/main/screenshot.png)
 
 ***************************************************************************************************
 
