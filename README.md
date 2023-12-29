@@ -437,6 +437,7 @@ The full list of 'dump' repositories is as follows:
 * [C++](https://github.com/James-P-D/CPPDump) - *"There are only two kinds of languages: the ones people complain about and the ones nobody uses."* - Bjarne Stroustrup
 * [Rust](https://github.com/James-P-D/RustDump) - *"most loved programming language"* in the Stack Overflow Developer Survey every year since 2016, apparently
 * [Go](https://github.com/James-P-D/GoDump) - General purpose language created by Google
+* [Zig](https://github.com/James-P-D/ZigDump) - Niche systems programming language
 * [Python](https://github.com/James-P-D/PythonDump) - A general purpose programming language whose popularity is inversely proportional to the amount of thought that went into creating it
 * [Ruby](https://github.com/James-P-D/RubyDump) - Ruby
 * [Processing](https://github.com/James-P-D/ProcessingDump) - An educational programming language made for visual design - similar to, and compiles to, Java.
@@ -448,6 +449,8 @@ The full list of 'dump' repositories is as follows:
 * [TypeScript](https://github.com/James-P-D/TypeScriptDump) - Javascript superset with an actual type-system
 * [Lisp](https://github.com/James-P-D/LispDump) - Common Lisp
 * [Clojure](https://github.com/James-P-D/ClojureDump) - A modern Lisp dialect
+* [Scheme](https://github.com/James-P-D/SchemeDump) - Another Lisp dialect
+* [Racket](https://github.com/James-P-D/RacketDump) - ..and another Lisp dialect
 * [Scala](https://github.com/James-P-D/ScalaDump) - A functional language that runs on the JVM
 * [F#](https://github.com/James-P-D/FSharpDump) - The .NET functional programming language. Similar to ML.
 * [OCAML](https://github.com/James-P-D/OCAMLDump) - Functional programming language. Again, similar to ML.
