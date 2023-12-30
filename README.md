@@ -449,7 +449,6 @@ The full list of 'dump' repositories is as follows:
 * [TypeScript](https://github.com/James-P-D/TypeScriptDump) - Javascript superset with an actual type-system
 * [Lisp](https://github.com/James-P-D/LispDump) - Common Lisp
 * [Clojure](https://github.com/James-P-D/ClojureDump) - A modern Lisp dialect
-* [Scheme](https://github.com/James-P-D/SchemeDump) - Another Lisp dialect
 * [Racket](https://github.com/James-P-D/RacketDump) - ..and another Lisp dialect
 * [Scala](https://github.com/James-P-D/ScalaDump) - A functional language that runs on the JVM
 * [F#](https://github.com/James-P-D/FSharpDump) - The .NET functional programming language. Similar to ML.
