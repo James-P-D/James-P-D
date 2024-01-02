@@ -37,6 +37,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [Hangman](#Hangman) - Hangman in **SNOBOL**
     * [ConsoleSnake](#ConsoleSnake) - Snake game for Windows console in **C/C++**
     * [Pong](#Pong) - Pong game in **x86** **Assembler**
+    * [NQueens](#NQueens) - N-Queens solver in **Common** **Lisp**
 * [Bluetooth](#Bluetooth)
     * [AdafruitBLESniffer](#AdafruitBLESniffer) - Bluetooth sniffer for the Adafruit Bluefruit device in **Python**
 * [Lora](#Lora)
@@ -324,6 +325,16 @@ Snake game for Windows console in **C/C++**
 Pong game in **x86** **Assembler**
 
 ![Screenshot](https://github.com/James-P-D/Pong/blob/main/screenshot.png)
+
+***************************************************************************************************
+
+#### [NQueens](https://github.com/James-P-D/NQueens)
+
+[https://github.com/James-P-D/NQueens](https://github.com/James-P-D/NQueens)
+
+N-Queens solver in **Common** **Lisp**
+
+![Screenshot](https://github.com/James-P-D/NQueens/blob/main/screenshot.png)
 
 ***************************************************************************************************
 
