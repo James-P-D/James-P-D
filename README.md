@@ -38,6 +38,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [ConsoleSnake](#ConsoleSnake) - Snake game for Windows console in **C/C++**
     * [Pong](#Pong) - Pong game in **x86** **Assembler**
     * [NQueens](#NQueens) - N-Queens solver in **Common** **Lisp**
+    * [MagicSquare](#MagicSquare) - Magic Square solver in **Prolog**
 * [Bluetooth](#Bluetooth)
     * [AdafruitBLESniffer](#AdafruitBLESniffer) - Bluetooth sniffer for the Adafruit Bluefruit device in **Python**
 * [Lora](#Lora)
@@ -335,6 +336,16 @@ Pong game in **x86** **Assembler**
 N-Queens solver in **Common** **Lisp**
 
 ![Screenshot](https://github.com/James-P-D/NQueens/blob/main/screenshot.png)
+
+***************************************************************************************************
+
+#### [MagicSquare](https://github.com/James-P-D/MagicSquare)
+
+[https://github.com/James-P-D/MagicSquare](https://github.com/James-P-D/MagicSquare)
+
+Magic Square solver in **Prolog**
+
+![Screenshot](https://github.com/James-P-D/MagicSquare/blob/main/screenshot.png)
 
 ***************************************************************************************************
 
