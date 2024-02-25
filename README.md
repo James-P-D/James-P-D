@@ -43,6 +43,8 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [AdafruitBLESniffer](#AdafruitBLESniffer) - Bluetooth sniffer for the Adafruit Bluefruit device in **Python**
 * [Lora](#Lora)
     * [LoStikLoraChat](#LoStikLoraChat) - Simple text chat client for the LoStik Lora device using **Python** and **PySimpleGUI** for UI
+* [CardPuter](#CardPuter)
+    * [ToneGenerator](#ToneGenerator) - DTMF, Blue, and US/UK Red Box tone generator for the **Cardputor** device in **Arduino** **Sketch** **(C++)**
 * [Miscellaneous](#Miscellaneous)
     * [Maze](#Maze) - Maze Generation and Solving in **Python**
     * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
@@ -370,6 +372,18 @@ Bluetooth sniffer for the Adafruit Bluefruit device in **Python**
 Simple text chat client for the LoStik Lora device using **Python** and **PySimpleGUI** for UI
 
 ![Screenshot](https://github.com/James-P-D/LoStikLoraChat/blob/main/screenshot.png)
+
+***************************************************************************************************
+
+### CardPuter
+
+#### [ToneGenerator](https://github.com/James-P-D/ToneGenerator)
+
+[https://github.com/James-P-D/ToneGenerator](https://github.com/James-P-D/ToneGenerator)
+
+DTMF, Blue, and US/UK Red Box tone generator for the **Cardputor** device in **Arduino** **Sketch** **(C++)**
+
+![Screenshot](https://github.com/James-P-D/ToneGenerator/blob/main/screenshot.png)
 
 ***************************************************************************************************
 
