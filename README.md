@@ -45,6 +45,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [LoStikLoraChat](#LoStikLoraChat) - Simple text chat client for the LoStik Lora device using **Python** and **PySimpleGUI** for UI
 * [CardPuter](#CardPuter)
     * [ToneGenerator](#ToneGenerator) - DTMF, Blue, and US/UK Red Box tone generator for the **Cardputor** device in **Arduino** **Sketch** **(C++)**
+    * [FlipperZeroIRPlayer](#FlipperZeroIRPlayer) - Program for playing Flipper Zero IR files on CardPuter device in **Arduino** **Sketch** **(C++)**
 * [Miscellaneous](#Miscellaneous)
     * [Maze](#Maze) - Maze Generation and Solving in **Python**
     * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
@@ -384,6 +385,16 @@ Simple text chat client for the LoStik Lora device using **Python** and **PySimp
 DTMF, Blue, and US/UK Red Box tone generator for the **Cardputor** device in **Arduino** **Sketch** **(C++)**
 
 ![Screenshot](https://github.com/James-P-D/ToneGenerator/blob/main/screenshot.png)
+
+***************************************************************************************************
+
+#### [FlipperZeroIRPlayer](https://github.com/James-P-D/FlipperZeroIRPlayer)
+
+[https://github.com/James-P-D/FlipperZeroIRPlayer](https://github.com/James-P-D/FlipperZeroIRPlayer)
+
+Program for playing Flipper Zero IR files on CardPuter device in **Arduino** **Sketch** **(C++)**
+
+![Screenshot](https://github.com/James-P-D/FlipperZeroIRPlayer/blob/main/screenshot.png)
 
 ***************************************************************************************************
 
