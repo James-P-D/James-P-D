@@ -43,6 +43,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [AdafruitBLESniffer](#AdafruitBLESniffer) - Bluetooth sniffer for the Adafruit Bluefruit device in **Python**
 * [Lora](#Lora)
     * [LoStikLoraChat](#LoStikLoraChat) - Simple text chat client for the LoStik Lora device using **Python** and **PySimpleGUI** for UI
+    * [MeshSpeech](#MeshSpeech) - Meshtastic desktop client with text-to/from-speech in **Python**
 * [CardPuter](#CardPuter)
     * [ToneGenerator](#ToneGenerator) - DTMF, Blue, and US/UK Red Box tone generator for the **Cardputor** device in **Arduino** **Sketch** **(C++)**
     * [FlipperZeroIRPlayer](#FlipperZeroIRPlayer) - Program for playing Flipper Zero IR files on CardPuter device in **Arduino** **Sketch** **(C++)**
@@ -373,6 +374,16 @@ Bluetooth sniffer for the Adafruit Bluefruit device in **Python**
 Simple text chat client for the LoStik Lora device using **Python** and **PySimpleGUI** for UI
 
 ![Screenshot](https://github.com/James-P-D/LoStikLoraChat/blob/main/screenshot.png)
+
+***************************************************************************************************
+
+#### [MeshSpeech](https://github.com/James-P-D/MeshSpeech)
+
+[https://github.com/James-P-D/MeshSpeech](https://github.com/James-P-D/MeshSpeech)
+
+Meshtastic desktop client with text-to/from-speech in **Python**
+
+![Screenshot](https://github.com/James-P-D/MeshSpeech/blob/main/screenshot.png)
 
 ***************************************************************************************************
 
