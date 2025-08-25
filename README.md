@@ -46,6 +46,8 @@ Below is a quick overview of every repository on my Github. All projects are ori
 * [Lora](#Lora)
     * [LoStikLoraChat](#LoStikLoraChat) - Simple text chat client for the LoStik Lora device using **Python** and **PySimpleGUI** for UI
     * [MeshSpeech](#MeshSpeech) - Meshtastic desktop client with text-to/from-speech in **Python**
+* [FlipperZero](#FlipperZero)
+    * [BadUSBBinFilePS](#BadUSBBinFilePS) - Small program for generating BadUSB script that generates binary files in **Python**
 * [M5Stack](#M5Stack)
     * [ToneGenerator](#ToneGenerator) - DTMF, Blue, and US/UK Red Box tone generator for the **Cardputor** device in **Arduino** **Sketch** **(C++)**
     * [FlipperZeroIRPlayer](#FlipperZeroIRPlayer) - Program for playing Flipper Zero IR files on **CardPuter** device in **Arduino** **Sketch** **(C++)**
@@ -399,6 +401,17 @@ Simple text chat client for the LoStik Lora device using **Python** and **PySimp
 Meshtastic desktop client with text-to/from-speech in **Python**
 
 ![Screenshot](https://github.com/James-P-D/MeshSpeech/blob/main/screenshot.png)
+
+***************************************************************************************************
+### FlipperZero
+
+#### [BadUSBBinFilePS](https://github.com/James-P-D/BadUSBBinFilePS)
+
+[https://github.com/James-P-D/BadUSBBinFilePS](https://github.com/James-P-D/BadUSBBinFilePS)
+
+Small program for generating BadUSB script that generates binary files in **Python**
+
+![Screenshot](https://github.com/James-P-D/BadUSBBinFilePS/blob/main/screenshot.png)
 
 ***************************************************************************************************
 
