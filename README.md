@@ -44,9 +44,10 @@ Below is a quick overview of every repository on my Github. All projects are ori
 * [Lora](#Lora)
     * [LoStikLoraChat](#LoStikLoraChat) - Simple text chat client for the LoStik Lora device using **Python** and **PySimpleGUI** for UI
     * [MeshSpeech](#MeshSpeech) - Meshtastic desktop client with text-to/from-speech in **Python**
-* [CardPuter](#CardPuter)
+* [M5Stack](#M5Stack)
     * [ToneGenerator](#ToneGenerator) - DTMF, Blue, and US/UK Red Box tone generator for the **Cardputor** device in **Arduino** **Sketch** **(C++)**
-    * [FlipperZeroIRPlayer](#FlipperZeroIRPlayer) - Program for playing Flipper Zero IR files on CardPuter device in **Arduino** **Sketch** **(C++)**
+    * [FlipperZeroIRPlayer](#FlipperZeroIRPlayer) - Program for playing Flipper Zero IR files on **CardPuter** device in **Arduino** **Sketch** **(C++)**
+    * [RFID_125_kHz](#RFID_125_kHz) - RFID 125kHz reader for **M5stickC** **PLUS2** in **Arduino** **Sketch** **(C++)**
 * [Miscellaneous](#Miscellaneous)
     * [Maze](#Maze) - Maze Generation and Solving in **Python**
     * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
@@ -387,7 +388,7 @@ Meshtastic desktop client with text-to/from-speech in **Python**
 
 ***************************************************************************************************
 
-### CardPuter
+### M5Stack
 
 #### [ToneGenerator](https://github.com/James-P-D/ToneGenerator)
 
@@ -403,9 +404,19 @@ DTMF, Blue, and US/UK Red Box tone generator for the **Cardputor** device in **A
 
 [https://github.com/James-P-D/FlipperZeroIRPlayer](https://github.com/James-P-D/FlipperZeroIRPlayer)
 
-Program for playing Flipper Zero IR files on CardPuter device in **Arduino** **Sketch** **(C++)**
+Program for playing Flipper Zero IR files on **CardPuter** device in **Arduino** **Sketch** **(C++)**
 
 ![Screenshot](https://github.com/James-P-D/FlipperZeroIRPlayer/blob/main/screenshot.png)
+
+***************************************************************************************************
+
+#### [RFID_125_kHz](https://github.com/James-P-D/RFID_125_kHz)
+
+[https://github.com/James-P-D/RFID_125_kHz](https://github.com/James-P-D/RFID_125_kHz)
+
+RFID 125kHz reader for **M5stickC** **PLUS2** in **Arduino** **Sketch** **(C++)**
+
+![Screenshot](https://github.com/James-P-D/RFID_125_kHz/blob/main/1.jpg)
 
 ***************************************************************************************************
 
