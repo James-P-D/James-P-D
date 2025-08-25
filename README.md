@@ -41,6 +41,8 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [MagicSquare](#MagicSquare) - Magic Square solver in **Prolog**
 * [Bluetooth](#Bluetooth)
     * [AdafruitBLESniffer](#AdafruitBLESniffer) - Bluetooth sniffer for the Adafruit Bluefruit device in **Python**
+* [SDR](#SDR)
+    * [SDRTranscriber](#SDRTranscriber) - SDR audio transcriber in **Python**
 * [Lora](#Lora)
     * [LoStikLoraChat](#LoStikLoraChat) - Simple text chat client for the LoStik Lora device using **Python** and **PySimpleGUI** for UI
     * [MeshSpeech](#MeshSpeech) - Meshtastic desktop client with text-to/from-speech in **Python**
@@ -363,6 +365,18 @@ Magic Square solver in **Prolog**
 Bluetooth sniffer for the Adafruit Bluefruit device in **Python**
 
 ![Screenshot](https://github.com/James-P-D/AdafruitBLESniffer/blob/main/screenshot.png)
+
+***************************************************************************************************
+
+### SDR
+
+#### [SDRTranscriber](#SDRTranscriber)
+
+[https://github.com/James-P-D/SDRTranscriber](https://github.com/James-P-D/SDRTranscriber)
+
+SDR audio transcriber in **Python**
+
+![Screenshot](https://github.com/James-P-D/SDRTranscriber/blob/main/screenshot.png)
 
 ***************************************************************************************************
 
