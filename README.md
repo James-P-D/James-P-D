@@ -52,6 +52,8 @@ Below is a quick overview of every repository on my Github. All projects are ori
     * [ToneGenerator](#ToneGenerator) - DTMF, Blue, and US/UK Red Box tone generator for the **Cardputor** device in **Arduino** **Sketch** **(C++)**
     * [FlipperZeroIRPlayer](#FlipperZeroIRPlayer) - Program for playing Flipper Zero IR files on **CardPuter** device in **Arduino** **Sketch** **(C++)**
     * [RFID_125_kHz](#RFID_125_kHz) - RFID 125kHz reader for **M5stickC** **PLUS2** in **Arduino** **Sketch** **(C++)**
+* [Telephony](#Telephony)
+    * [ToneDecoder](#ToneDecoder) - Decoder for DTMF (and other MF signals) in **Python**
 * [Miscellaneous](#Miscellaneous)
     * [Maze](#Maze) - Maze Generation and Solving in **Python**
     * [Fractals](#Fractals) - Fractals with zoom functionality in **Python** and **Julia**
@@ -424,6 +426,18 @@ Small program for generating BadUSB script that generates binary files in **Pyth
 DTMF, Blue, and US/UK Red Box tone generator for the **Cardputor** device in **Arduino** **Sketch** **(C++)**
 
 ![Screenshot](https://github.com/James-P-D/ToneGenerator/blob/main/screenshot.png)
+
+***************************************************************************************************
+
+### Telephony
+
+#### [ToneDecoder](https://github.com/James-P-D/ToneGenerator)
+
+[https://github.com/James-P-D/ToneDecoder](https://github.com/James-P-D/ToneDecoder)
+
+Decoder for DTMF (and other MF signals) in **Python**
+
+![Screenshot](https://github.com/James-P-D/ToneDecoder/blob/main/screenshot.png)
 
 ***************************************************************************************************
 
