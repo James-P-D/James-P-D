@@ -46,6 +46,7 @@ Below is a quick overview of every repository on my Github. All projects are ori
 * [Lora](#Lora)
     * [LoStikLoraChat](#LoStikLoraChat) - Simple text chat client for the LoStik Lora device using **Python** and **PySimpleGUI** for UI
     * [MeshSpeech](#MeshSpeech) - Meshtastic desktop client with text-to/from-speech in **Python**
+    * [CatWanSniff](#CatWanSniff) - LoRa packet sniffer for the Electronic Cats CatWan device in **Python** (Currently not working)
 * [FlipperZero](#FlipperZero)
     * [BadUSBBinFilePS](#BadUSBBinFilePS) - Small program for generating BadUSB script that generates binary files in **Python**
 * [M5Stack](#M5Stack)
@@ -403,6 +404,16 @@ Simple text chat client for the LoStik Lora device using **Python** and **PySimp
 Meshtastic desktop client with text-to/from-speech in **Python**
 
 ![Screenshot](https://github.com/James-P-D/MeshSpeech/blob/main/screenshot.png)
+
+***************************************************************************************************
+
+#### [CatWanSniff](https://github.com/James-P-D/CatWanSniff)
+
+[https://github.com/James-P-D/CatWanSniff](https://github.com/James-P-D/CatWanSniff)
+
+LoRa packet sniffer for the Electronic Cats CatWan device in **Python** (Currently not working)
+
+![Screenshot](https://github.com/James-P-D/CatWanSniff/blob/main/screenshot.png)
 
 ***************************************************************************************************
 ### FlipperZero
